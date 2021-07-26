@@ -18,5 +18,8 @@ Spark-testing.txt file is my worklog for Troubleshooting issues.
 
 I did my best to guess the problems , so hopefully my guess is not off the chart.
 
+Another thing, I am interested in AutoEncoding - A deep learning model for enhancing the quality of image.
+Here is my github https://github.com/mleecan/image_superResolution , in case, if you are interested in.
+
 Thanks a lot , hoping to talk to you guys soon
 
