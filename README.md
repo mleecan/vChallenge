@@ -21,5 +21,7 @@ I did my best to guess the problems , so hopefully my guess is not off the chart
 Another thing, I am interested in AutoEncoding - A deep learning model for enhancing the quality of image.
 Here is my github https://github.com/mleecan/image_superResolution , in case, if you are interested in.
 
+If you have any questions, you can reach me mleecan@yahoo.com or 512-815-8734
+
 Thanks a lot , hoping to talk to you guys soon
 
